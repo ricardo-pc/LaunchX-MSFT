@@ -4,4 +4,4 @@
 | Ejercicios      | Link |
 | ----------- | ----------- |
 | Python      | [Katas](https://github.com/ricardo-pc/LaunchX-MSFT/tree/main/Python)       |
-| Pendiente   | Pendiente        |
+| Front End   | [Prácticas](https://github.com/ricardo-pc/LaunchX-MSFT/tree/main/Front%20End)        |
